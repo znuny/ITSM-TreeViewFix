@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_package version="1.0">
+    <Name>ITSM-TreeViewFix</Name>
+    <Version>6.2.0</Version>
+    <Framework>6.2.2</Framework>
+    <Vendor>Znuny GmbH</Vendor>
+    <URL>http://znuny.com/</URL>
+    <License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
+    <Description Lang="en">This package contains a fix for missing tree view config for the ITSM packages in version 6.2 .</Description>
+    <Description Lang="de">Dieses Paket enthält einen Fix für die fehlende TreeView Config des ITSM Paketes in Version 6.2 . </Description>
+    <Filelist>
+        <File Permission="660" Location="Custom/Kernel/Modules/AgentTicketProcess.pm"/>
+        <File Permission="660" Location="Custom/Kernel/Modules/CustomerTicketProcess.pm"/>
+    </Filelist>
+</otrs_package>
