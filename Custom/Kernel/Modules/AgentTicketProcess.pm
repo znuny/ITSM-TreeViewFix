@@ -3,8 +3,6 @@
 # Copyright (C) 2012-2022 Znuny GmbH, http://znuny.com/
 # --
 # $origin: ITSMIncidentProblemManagement - 51ba5ed001e555819adcf4d313f14828d9013cfd - Kernel/Modules/AgentTicketProcess.pm
-# Copyright (C) 2012-2022 Znuny GmbH, http://znuny.com/
-# --
 # $origin: Znuny - 460ef44565300c6b979b0743833e3800fdbebf81 - Kernel/Modules/AgentTicketProcess.pm
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see

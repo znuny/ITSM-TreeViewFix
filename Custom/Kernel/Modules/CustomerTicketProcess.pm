@@ -3,18 +3,15 @@
 # Copyright (C) 2012-2022 Znuny GmbH, http://znuny.com/
 # --
 # $origin: ITSMIncidentProblemManagement - 51ba5ed001e555819adcf4d313f14828d9013cfd - Kernel/Modules/CustomerTicketProcess.pm
-# Copyright (C) 2012-2022 Znuny GmbH, http://znuny.com/
-# --
 # $origin: Znuny - 460ef44565300c6b979b0743833e3800fdbebf81 - Kernel/Modules/CustomerTicketProcess.pm
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
 # the enclosed file COPYING for license information (GPL). If you
 # did not receive this file, see https://www.gnu.org/licenses/gpl-3.0.txt.
 # --
-
-package Kernel::Modules::CustomerTicketProcess;
 ## nofilter(TidyAll::Plugin::OTRS::Perl::DBObject)
 ## nofilter(TidyAll::Plugin::Znuny4OTRS::CodeStyle::CodeMarkerPackageName)
+package Kernel::Modules::CustomerTicketProcess;
 
 use strict;
 use warnings;
