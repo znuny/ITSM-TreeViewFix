@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <otrs_package version="1.0">
     <Name>ITSM-TreeViewFix</Name>
-    <Version>6.2.1</Version>
+    <Version>6.2.2</Version>
+    <ChangeLog Version="6.2.2" Date="2022-04-28 09:48:06 +0200">Fixed required package version.</ChangeLog>
     <ChangeLog Version="6.2.1" Date="2022-04-28 08:56:44 +0200">Initial release for Znuny 6.2.2.</ChangeLog>
     <Framework Minimum="6.2.2">6.2.x</Framework>
     <PackageRequired Version="6.2.1">ITSMIncidentProblemManagement</PackageRequired>
